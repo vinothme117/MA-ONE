@@ -1,0 +1,19 @@
+.Nav-item {
+  margin-top: 10px;
+  background-color: transparent;
+  padding: 7px;
+  margin-left: 5px;
+  color: #9ea3ad;
+  border: 3px solid transparent;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 18px;
+  text-align: justify;
+}
+.Nav-item:hover,
+.Nav-item:focus {
+  color: #7f76b1;
+  background-color: #bbbbbb;
+  border-bottom: 3px solid #7f76b1;
+  border-radius: 3px;
+}

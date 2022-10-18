@@ -1,0 +1,32 @@
+.cancelbtn{
+    background-color: #c32f0b  ;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    border-radius:7%;
+    border: 2px solid #c32f0b  ;
+}
+.cancelbtn:hover {
+    background-color: white;
+    color: #c32f0b  ;
+    border: 2px solid #c32f0b  ;
+}
+
+.edit{
+    margin-top: 10px;
+    background-color: goldenrod;
+    border: none;
+    margin-left: 32%;
+    color: white;
+    padding: 12px 20px;
+    border-radius:7%;
+    border: 2px solid goldenrod;
+    float: left;
+}
+.edit:hover {
+    background-color: white;
+    color: goldenrod;
+    border: 2px solid goldenrod;
+}

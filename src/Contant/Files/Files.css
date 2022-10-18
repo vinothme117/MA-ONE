@@ -1,0 +1,96 @@
+.upload {
+  align-items: center;
+}
+.add-button {
+  color: white;
+  position: relative;
+  left: 73%;
+  width: 100px;
+  height: 40px;
+  background-color: #312476;
+  border: 2px solid #312476;
+  border-radius: 7px;
+}
+.add-button:hover {
+  background-color: #7f76b1;
+}
+.table-head {
+  border: 1px solid #ddd;
+  padding: 15px;
+}
+.data-table {
+  border-collapse: collapse;
+  width: 80%;
+  text-align: center;
+  padding: 0.25rem;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.updatebutton {
+  color: white;
+  width: 120px;
+  height: 40px;
+  background-color: #ffc466;
+  border: 2px solid #ffc466;
+  border-radius: 7px;
+  color: black;
+}
+.updatebutton:hover {
+  background-color: #fce8c8;
+}
+.data {
+  border: 1px solid #ddd;
+  padding: 8px;
+  height: 20px;
+}
+.data-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+#inputcont {
+  width: 80%;
+}
+#userinput {
+  width: 40%;
+  height: 200px;
+  background-color: rgb(204, 215, 219);
+  border: 2px solid gray;
+  border-radius: 15px;
+}
+.m-head {
+  width: 100px;
+  font-size: 20px;
+  font-family: Arial;
+  color: rgb(56, 56, 56);
+}
+.input {
+  background-color: lavender;
+  border: gray 2px solid;
+  border-radius: 7px;
+  width: 30%;
+  height: 20px;
+}
+.m-head {
+  font-size: 20px;
+  font-family: Arial;
+  color: rgb(56, 56, 56);
+}
+.input {
+  background-color: lavender;
+  border: gray 2px solid;
+  border-radius: 7px;
+  width: 30%;
+  height: 20px;
+}
+#add {
+  background-color: #27ab83;
+  border: none;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 7%;
+  border: 2px solid #27ab83;
+}
+#add:hover {
+  background-color: white;
+  color: #27ab83;
+  border: 2px solid #27ab83;
+}

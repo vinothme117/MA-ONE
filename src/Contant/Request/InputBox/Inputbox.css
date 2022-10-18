@@ -1,0 +1,22 @@
+.User-input {
+  margin-top: 30px;
+  display: flex;
+}
+.Input-box {
+  margin-left: 15px;
+  margin-top: 10px;
+  width: 25%;
+  height: 25px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+.Tlabel {
+  color: rgb(88, 86, 86);
+  font-size: 17px;
+  font-weight: bold;
+  width: 10%;
+  height: 20px;
+  position: relative;
+  left: -22%;
+  top: -8px;
+}

@@ -1,0 +1,43 @@
+.requestInfo {
+  color: #323743;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.bellIcon {
+  position: absolute;
+  top: 2rem;
+  right: 5rem;
+  width: 25px;
+  height: 25px;
+}
+.questionIcon {
+  position: absolute;
+  top: 2rem;
+  right: 3rem;
+  width: 25px;
+  height: 25px;
+}
+.contant {
+  border: 1px solid gray;
+  height: 100px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #0e0e10, #78787a);
+}
+.contant_title {
+  font-size: 45px;
+  padding: 5px;
+  color: #7f76b1;
+  font-family: Helvetica, sans-serif;
+}
+
+.combo {
+  margin-left: 15px;
+  margin-top: 25px;
+  width: 19.5%;
+  height: 32px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+.button-container {
+  margin-left: 50%;
+}

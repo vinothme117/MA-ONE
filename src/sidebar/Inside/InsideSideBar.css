@@ -1,0 +1,49 @@
+.sideBar {
+  color: #9ea3ad;
+  background-color: #1e2128;
+  height: 800px;
+  border: 2px solid transparent;
+}
+.sideBar img {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.navi-icons {
+  display: flex;
+  align-items: center;
+}
+.slider {
+  font-size: 30px;
+  padding: 10px;
+}
+.sidebar-item {
+  padding-left: 1rem;
+  color: #9ea3ad;
+  border: 1px solid transparent;
+  display: block;
+  height: 3rem;
+  text-decoration: none;
+  font-size: 18px;
+  text-align: justify;
+}
+.sidebar-item:hover {
+  border: 1px solid #7f76b1;
+  background-color: #7f76b1;
+  border-radius: 5px;
+  color: #312476;
+}
+
+.sideBar hr {
+  margin-bottom: 2rem;
+}
+.icon {
+  margin-right: 5px;
+  width: 30px;
+  height: 30px;
+}
+.sidebarimg {
+  position: relative;
+  top: 25%;
+  border-radius: 50%;
+  margin-left: 10px;
+}

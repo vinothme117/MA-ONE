@@ -1,0 +1,9 @@
+.editbtn{
+    background-color: transparent;
+    border: 2px solid transparent;
+    text-decoration: underline;
+    color: blueviolet;
+}
+.editbtn:hover{
+    cursor:pointer;
+}
